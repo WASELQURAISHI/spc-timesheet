@@ -1,0 +1,5 @@
+# Optional: if you prefer gradle.properties style usage
+MY_STORE_FILE=/absolute/path/to/your/spc_release.jks
+MY_STORE_PASSWORD=change-me
+MY_KEY_ALIAS=spc_release
+MY_KEY_PASSWORD=change-me
